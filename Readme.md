@@ -1,11 +1,3 @@
-![Shape 2](RackMultipart20220801-1-ymt7xr_html_c50ed92f858a6de4.gif) ![](RackMultipart20220801-1-ymt7xr_html_84f60e84679bfd01.png)
-
-#
-**# Data Engineer | Assignment**
-
-Jan 2022 Sprint
-
-─
 
 ## Our Goal
 
@@ -13,7 +5,7 @@ We are developing a data platform for users to upload their open data. The appli
 
 **Requirement**
 
-Dataset -\&gt; name -\&gt; Multiple resources(resource is csv file)
+Dataset - name - Multiple resources(resource is csv file)
 
 Example: [https://data.opencity.in/dataset/bbmp-election-2015](https://data.opencity.in/dataset/bbmp-election-2015)
 
