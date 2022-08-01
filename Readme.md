@@ -3,9 +3,7 @@
 
 We are developing a data platform for users to upload their open data. The application should allow the upload and download of csv data files
 
-**Requirement**
-
-Dataset - name - Multiple resources(resource is csv file)
+## Requirement
 
 Example: [https://data.opencity.in/dataset/bbmp-election-2015](https://data.opencity.in/dataset/bbmp-election-2015)
 
@@ -22,8 +20,8 @@ Requirement breakdown:
 4. API to list datasets
 5. API to display a particular dataset
 6. Extra requirements :
-  1. Create a db model to save uploaded csv data and create a relationship with dataset model
-  2. Create an API to fetch resource data from db for a given dataset
+  - Create a db model to save uploaded csv data and create a relationship with dataset model
+  - Create an API to fetch resource data from db for a given dataset
 
 ## Available Data
 
@@ -45,7 +43,7 @@ Resource for dataset 2:
 5. Create APIs to list all datasets/ show a dataset detail given its name/ api to fetch the res data from db using resource id
 6. Make the resource file downloadable from the file system.
 
-**What are we looking for**
+## What are we looking for
 
 **1. Process:** We want to understand your process. How you identified the challenge, and the solution you arrived upon. So documentation of this process would be a valuable addition.
 
@@ -57,11 +55,11 @@ Resource for dataset 2:
 
 **1 week.**. Do get back to us with any questions and clarifications.
 
-**How will CDL use the submission?**
+## How will CDL use the submission?
 
 One of our key values is openness. Our work is under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license and If you choose to, we are happy to exhibit the submission online through our various channels. You are also free to make it part of your portfolio. In case CivicDataLab ends up using any of your work in our live solution(s), we would ensure full disclosure and fair compensation to the creator accordingly.
 
-**Co-creation &amp; Collaboration**
+## Co-creation &amp; Collaboration
 
 At CivicDataLab, we believe in collaboration and co-creation. Feel free to discuss your work with us throughout the given time period either through email or through a scheduled call. We&#39;re more than happy to provide feedback on a continuous basis, and not just at the end of the task. In case you have any questions, don&#39;t hesitate to ping us.
 
